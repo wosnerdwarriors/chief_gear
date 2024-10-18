@@ -1,5 +1,7 @@
 #chief gear
 
+# A HUGE CHANGE
+
 chief_gear_tiers= [
     {"tier":"green", "upgrade_cost": [1500,15,0,0], "stat_gain": 0.0935},
     {"tier":"green_1*", "upgrade_cost": [3800,40,0,0], "stat_gain": 0.0340},
